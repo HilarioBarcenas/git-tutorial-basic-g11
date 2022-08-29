@@ -5,6 +5,8 @@ Esta línea representa el primer commit por interfaz web en repositorio remoto e
 
 Esta línea representa el segundo commit por interfaz web en repositorio remoto en github.com
 
-Esta línea representa el primero commit por terminal a un repositorio remoto en github.com
+Esta línea representa el primer commit por terminal a un repositorio remoto en github.com
 
 Esta línea representa el primer commit por github desktop  con interfaz visual a un repositorio en github.com
+
+Esta linea representa un commit por terminal en la carpeta git para ejercitar git pull en github desktop
